@@ -91,7 +91,6 @@ h3 {
 }*/
 #intro.section {
 	background-size: cover;
-	/*background: url(../../static/img/charan.jpg) no-repeat center center;*/
 	position: relative;
 }
 #intro.section .container {
